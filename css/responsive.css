@@ -8,4 +8,11 @@
     .nav .fa-search{
         display: none;
     }
+    .our img{
+        width: 80%;
+    }
+    .our .img img{
+        width: 25%;
+        height: 10%;
+    }
 }
